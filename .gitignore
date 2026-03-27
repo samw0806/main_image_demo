@@ -19,3 +19,7 @@ backend/.env
 # OS / editor
 .idea/
 .vscode/
+
+# Local agent / skill config
+.agents/
+skills/
