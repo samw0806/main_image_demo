@@ -1,0 +1,8 @@
+fastapi==0.115.8
+uvicorn[standard]==0.34.0
+python-multipart==0.0.20
+psd-tools[composite]==1.10.6
+openpyxl==3.1.5
+pillow==11.1.0
+rembg==2.0.63
+onnxruntime==1.20.1
